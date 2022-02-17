@@ -13,5 +13,5 @@
   <ItemGroup>
     <ProjectReference Include="..\NetBrick.Brick.Core\NetBrick.Brick.Core.csproj" />
   </ItemGroup>
-
+  
 </Project>
